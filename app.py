@@ -95,8 +95,8 @@ def main():
 
     else:
         st.subheader("About")
-        st.text("Made By Rakshit")
-        st.text("2021")
+        st.text("Made By Rakshit Saxena")
+        st.text("Cloud Computing, 2021")
 
 
 if __name__ == '__main__':
