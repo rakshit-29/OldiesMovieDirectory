@@ -19,7 +19,7 @@ def main():
     choice = st.sidebar.selectbox("Menu", menu)
     stc.html(HTML_BANNER)
 
-    df = pd.read_csv("final_movielens_500_db.csv")
+    df = pd.read_csv("classicmoviedictionary.csv")
 
     del df['sno']
 
