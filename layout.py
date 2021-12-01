@@ -33,7 +33,7 @@ def main():
 
 
 		with col2:
-			year = st.number_input('Year',1995,2020)
+			year = st.number_input('Year',1900,2000)
 
 
 
